@@ -1,5 +1,5 @@
 FROM nginx:latest
-EXPOSE 8081
+EXPOSE 80
 WORKDIR /app
 USER root
 
